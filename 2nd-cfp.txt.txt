@@ -1,0 +1,68 @@
+[2nd CFP: 1st Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents @JCDL2020]
+
+
+
+Dear colleagues, 
+
+You are invited to participate in the 1st Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE2020), to be held as part of the ACM/IEEE Joint Conference on Digital Libraries 2020.
+
+EEKE2020 will be an all-virtual workshop as JCDL will be online only.
+
+
+* Important Dates
+All dates are Anywhere on Earth (AoE).
+
+Deadline for submission: June 22, 2020 (extended)
+Notification of acceptance: July 14, 2020
+Camera ready: July 27, 2020
+Workshop: August 1, 2020
+
+* Keynote by Min Song (Yonsei University): Entitymetrics 2.0: Measuring the Impact of Entities and Relations Extracted from Scientific Documents
+
+More details at:
+<https://eeke2020.github.io/>
+
+
+* Aim of the Workshop
+In the era of big data, massive amounts of information and data have dramatically changed human civilization. The broad availability of information provides more opportunities for people, but there has appeared a new challenge: how can we obtain useful knowledge from numerous information sources. A knowledge entity is a relatively independent and integral knowledge module in a special discipline or a research domain. As a crucial medium for knowledge transmission, scientific documents that contain a large number of knowledge entities attract the attention of scholars. In scientific documents, knowledge entities refer to the knowledge mentioned or cited by authors, such as algorithms, models, theories, datasets and software, which reflect the various resources used by the authors in solving problems. Extracting knowledge entities from scientific documents in an accurate and comprehensive way becomes a significant topic. We may recommend documents related to a given knowledge entity (e.g. LSTM model) for scholars, especially for beginners in a research field. DARPA has recently launched the ASKE (Automating Scientific Knowledge Extraction) project, which aims to develop next-generation applications of artificial intelligence.
+
+Therefore, the goal of this workshop is to engage the related communities in open problems in the extraction and evaluation of knowledge entities from scientific documents. At present, scholars have used knowledge entities to construct general knowledge-graphs and domain knowledge-graphs. Data sources for these studies include text (news, policy files, email, etc.) and multimedia (video, image, etc.) data. Compared to existing research and workshops like Joint workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL) or Workshop on Mining Scientific Publications (WOSP), this workshop aims to extract knowledge entities from scientific documents, and explore the feature of entities to conduct practical applications. The results of this workshop are expected to provide scholars, especially early career researchers, with knowledge recommendations and other knowledge entity-based services.
+
+* Workshop Topics
+This workshop will be relevant to scholars in computer and information science, specialized in Information Extraction, Text Mining, NLP, IR and Digital Libraries. It will also be of importance for all stakeholders in the publication pipeline: implementers, publishers and policymakers. This workshop entitles this cutting-edge and cross-disciplinary direction Extraction and Evaluation of Knowledge Entity, highlighting the development of intelligent methods for identifying knowledge claims in scientific documents, and promoting the application of knowledge entities. We invite stimulating research on topics including, but not limited to, methods of knowledge entity extraction and applications of knowledge entity. 
+
+Specific examples of fields of interest include:
+
+- Model and algorithmize entity extraction from scientific documents
+- Dataset and metrics mention extraction from scientific documents
+- Software and tool extraction from scientific documents 
+- Construction of a knowledge entity graph and roadmap
+- Knowledge entity summarization
+- Relation extraction of knowledge entity
+- Construction of a knowledge base of knowledge entities
+- Bibliometrics of knowledge entity
+- Application of knowledge entity extraction
+
+
+* Submission Guidelines
+All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
+
+Regular papers: All submissions must be written in English, following the ACM Proceedings template (10 pages for full papers and 4 pages for short papers exclusive of unlimited pages for references) and should be submitted as PDF files to EasyChair.
+Poster & demonstration: We welcome submissions detailing original, early findings, works in progress and industrial applications of knowledge entities extraction and evaluation for a special poster session, possibly with a 2-minute presentation in the main session. Some research track papers will also be invited to the poster track instead, although there will be no difference in the final proceedings between poster and research track submissions. These papers should follow the same format as the research track papers but can be shorter (2 pages for poster and demo papers).
+
+Easychair Submission: <https://easychair.org/conferences/?conf=eeke2020>
+
+* Committees
+Organizing committee
+- Chengzhi Zhang, Nanjing University of Science and Technology, China 
+- Philipp Mayr, GESIS -- Leibniz-Institute for the Social Sciences, Germany
+- Wei Lu, Wuhan University, China
+- Yi Zhang, University of Technology Sydney (UTS), Australia 
+
+More details at:
+<https://eeke2020.github.io/>
+
+
+Best regards, 
+
+Philipp Mayr (on behalf of all EEKE organizers)
