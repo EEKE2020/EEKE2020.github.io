@@ -1,15 +1,15 @@
-2;Xin An, Jinghong Li, Shuo Xu, Liang Chen and Sainan Pi;A Novel Approach for Patent Similarity Measurement Based on Sequence Alignment
-3;Liang Chen, Shuo Xu, Weijiao Shang, Zheng Wang, Chao Wei and Haiyun Xu;What is Special about Patent Information Extraction?
-4;Feifei Wang and Wanzhao Lu;Collaboration prediction based on the Multi-node2vec algorithm by embedding tripartite citation network: A Case Study of Gene Editing
-5;Liangping Ding, Zhixiong Zhang, Huan Liu, Jie Li and Gaihong Yu;Automatic Keyphrase Extraction from Scientific Chinese Medical Abstracts Based on Character-Level Sequence Labeling
-6;Fang Tan, Siting Yang, Xiaoyan Wu and Jian Xu;Exploring the Relation between Biomedical Entities and Government Funding
-7;Pei Pan, Jiazheng Zhuang and Yijin Chen;Knowledge Base of Research Methods of LIS Academic Papers: Tentative Construction and Experimental Application
-9;Wei Shao and Hua Bolin;A Unsupervised Method for Terminology Extraction from Scientific Text
-10;Zi Xiong, Yue Qi, Wei Lu and Qikai Cheng;Design and Implementation of an Academic Search System Based on a General Query Language and Automatic Question Answering
-11;Jin Mao, Shiyun Wang and Xianli Shang;Investigating interdisciplinary knowledge flow through citances
-12;Yu Li, Tao Yue and Wu Zhenxin;IEKM-MD: An Intelligent Platform for Information Extraction and Knowledge Mining in Multi-Domains
-13;Qikai Liu, Pengcheng Li, Wei Lu and Qikai Cheng;Long-tail dataset entity recognition based on Data Augmentation
-14;Mengjia Wu and Yi Zhang;Intelligent Bibliometrics for Discovering the Associations between Genes and Diseases: Methodology and Case study
-15;Jennifer D'Souza and Sören Auer;NLPContributions: An Annotation Scheme for Machine Reading of Scholarly Contributions in Natural Language Processing Literature
-17;Xiaole Li, Yuzhuo Wang and Chengzhi Zhang;Assessing Impact of Method Entities in a Special Task
-18;Chong Chen, Jingying Zhang, Xiaoyu Chu and Jinglin Zheng;Comparison Study on Summary Peer Reviews and Abstracts of Scientific Papers
+2;Xin An, Jinghong Li, Shuo Xu, Liang Chen and Sainan Pi;A Novel Approach for Patent Similarity Measurement Based on Sequence Alignment;short
+3;Liang Chen, Shuo Xu, Weijiao Shang, Zheng Wang, Chao Wei and Haiyun Xu;What is Special about Patent Information Extraction?;full
+4;Feifei Wang and Wanzhao Lu;Collaboration prediction based on the Multi-node2vec algorithm by embedding tripartite citation network: A Case Study of Gene Editing;short
+5;Liangping Ding, Zhixiong Zhang, Huan Liu, Jie Li and Gaihong Yu;Automatic Keyphrase Extraction from Scientific Chinese Medical Abstracts Based on Character-Level Sequence Labeling;full
+6;Fang Tan, Siting Yang, Xiaoyan Wu and Jian Xu;Exploring the Relation between Biomedical Entities and Government Funding;short
+7;Pei Pan, Jiazheng Zhuang and Yijin Chen;Knowledge Base of Research Methods of LIS Academic Papers: Tentative Construction and Experimental Application;demo
+9;Wei Shao and Hua Bolin;A Unsupervised Method for Terminology Extraction from Scientific Text;short
+10;Zi Xiong, Yue Qi, Wei Lu and Qikai Cheng;Design and Implementation of an Academic Search System Based on a General Query Language and Automatic Question Answering;demo
+11;Jin Mao, Shiyun Wang and Xianli Shang;Investigating interdisciplinary knowledge flow through citances;short
+12;Yu Li, Tao Yue and Wu Zhenxin;IEKM-MD: An Intelligent Platform for Information Extraction and Knowledge Mining in Multi-Domains;short
+13;Qikai Liu, Pengcheng Li, Wei Lu and Qikai Cheng;Long-tail dataset entity recognition based on Data Augmentation;poster
+14;Mengjia Wu and Yi Zhang;Intelligent Bibliometrics for Discovering the Associations between Genes and Diseases: Methodology and Case study;full
+15;Jennifer D'Souza and Sören Auer;NLPContributions: An Annotation Scheme for Machine Reading of Scholarly Contributions in Natural Language Processing Literature;full
+17;Xiaole Li, Yuzhuo Wang and Chengzhi Zhang;Assessing Impact of Method Entities in a Special Task;poster
+18;Chong Chen, Jingying Zhang, Xiaoyu Chu and Jinglin Zheng;Comparison Study on Summary Peer Reviews and Abstracts of Scientific Papers;short
