@@ -29,3 +29,6 @@ EEKE2020_paper_11_Investigating interdisciplinary knowledge flow through citance
 EEKE2020_paper_12_IEKM-MD - An Intelligent Platform for Information Extraction and Knowledge Mining in Multi-Domains
 
 -> 6 pages, ok
+
+
+### I stopped here
