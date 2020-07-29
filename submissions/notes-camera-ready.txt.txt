@@ -1,0 +1,31 @@
+EEKE2020_paper_2_A Novel Approach for Patent Similarity Measurement Based on Sequence Alignment
+
+-> 5 pages, ok
+
+EEKE2020_paper_3_What is Special about Patent Information Extraction
+
+-> 11 pages, last page?, some layout issues
+
+EEKE2020_paper_5_Automatic Keyphrase Extraction from Scientific Chinese Medical Abstracts Based on Character-Level Sequence Labeling
+
+-> 11 pages, not camera-ready, some formating issues
+
+EEKE2020_paper_6_Exploring the Relation between Biomedical Entities and Government Funding
+
+-> 5 pages, not camera-ready, some formating issues
+
+EEKE2020_paper_9_An Unsupervised Method for Terminology Extraction from Scientific Text
+
+-> 2 pages, not camera-ready, no references
+
+EEKE2020_paper_10_Design and Implementation of an Academic Search System Based on a General Query Language and Automatic Question Answering
+
+-> 3 pages,  ok
+
+EEKE2020_paper_11_Investigating interdisciplinary knowledge flow through citances
+
+-> 5 pages, ok
+
+EEKE2020_paper_12_IEKM-MD - An Intelligent Platform for Information Extraction and Knowledge Mining in Multi-Domains
+
+-> 6 pages, ok
